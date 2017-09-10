@@ -1,0 +1,1 @@
+C:\Users\zhiweifan\Documents\GitHub\Git_Data\ardupilot-master\ardupilot-master\Tools\SerialProxy\SerialProxy\bin\Debug\SerialProxy.exe.config
